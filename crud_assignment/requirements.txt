@@ -1,0 +1,4 @@
+Django==2.2.16
+Django==3.2.20
+djangorestframework==3.13.1
+djangorestframework==3.14.0
